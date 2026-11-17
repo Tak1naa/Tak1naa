@@ -1,0 +1,1 @@
+Java backend development · Linux tooling · AI applications. Focused on service integration, testing, and runtime verification.
