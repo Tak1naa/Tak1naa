@@ -13,7 +13,7 @@
 
 <div align="center">
   <h1>
-    Hi, I'm Zili Ying (Takina)
+    Hi, I'm Li<sup>3+</sup> (Takina)
   </h1>
   <h3>
     Java Backend Developer • AI Infra &amp; Agent Tooling • Linux Systems
