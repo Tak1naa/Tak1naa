@@ -13,7 +13,7 @@
 
 <div align="center">
   <h1>
-    你好，我是 应子立（Takina）
+    你好，我是 立立子（Takina）
   </h1>
   <h3>
     Java 后端开发 • AI 工程与安全评测 • Linux 系统工具
