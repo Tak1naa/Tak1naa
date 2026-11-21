@@ -13,7 +13,7 @@
 
 <div align="center">
   <h1>
-    应子立 · Tak1naa
+    立立子 · Tak1naa
   </h1>
   <h3>
     系统向 Java 后端开发 • AI 安全评测与基础设施 • Linux 工具工程
