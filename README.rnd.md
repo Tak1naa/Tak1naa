@@ -13,7 +13,7 @@
 
 <div align="center">
   <h1>
-    Zili Ying · Tak1naa
+    Li<sup>3+</sup> · Tak1naa
   </h1>
   <h3>
     Systems-Minded Java Backend • AI Evaluation &amp; Harness • Linux Tooling
